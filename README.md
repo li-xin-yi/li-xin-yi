@@ -10,4 +10,4 @@ Ph.D. student in Security/CS.
 
 # Weekly development breakdown
 
-[![](https://wakatime.com/share/@6905318c-f75f-4c8b-a468-e05b8a28745d/e4dc40c3-09c5-4821-bba1-e0a0017e6ad0.png)](https://wakatime.com/)
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@6905318c-f75f-4c8b-a468-e05b8a28745d/bd853c7e-52dc-4f26-b689-1c0ff045a012.png" height=200/></a>
