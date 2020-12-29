@@ -9,7 +9,7 @@ Ph.D. student in Security/CS.
 
 ---
 
-# 📊 Weekly development breakdown
+## 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
 ```text
