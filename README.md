@@ -13,9 +13,9 @@ Ph.D. student in Security/CS.
 
 <!--START_SECTION:waka-->
 ```text
-Other    36 hrs 40 mins  ███████████████████▓░░░░░   78.38 % 
-TeX      9 hrs 16 mins   █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
-Python   32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-BibTeX   14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Other    33 hrs 3 mins   ████████████████▒░░░░░░░░   65.19 % 
+TeX      16 hrs 47 mins  ████████▒░░░░░░░░░░░░░░░░   33.13 % 
+BibTeX   28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+Python   19 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 ```
 <!--END_SECTION:waka-->
