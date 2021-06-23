@@ -13,10 +13,10 @@ Ph.D. student in Security/CS.
 
 <!--START_SECTION:waka-->
 ```text
-Other      18 hrs 36 mins  ██████████▒░░░░░░░░░░░░░░   41.38 % 
-Java       10 hrs 37 mins  ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
-Markdown   9 hrs 54 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.01 % 
-XML        5 hrs 21 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
-Python     26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+Other      19 hrs 13 mins  ███████████░░░░░░░░░░░░░░   43.76 % 
+Markdown   11 hrs 52 mins  ██████▓░░░░░░░░░░░░░░░░░░   27.03 % 
+Java       8 hrs 4 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.38 % 
+XML        4 hrs 28 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
+Python     13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 ```
 <!--END_SECTION:waka-->
