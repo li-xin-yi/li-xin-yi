@@ -13,10 +13,9 @@ Ph.D. student in Security/CS.
 
 <!--START_SECTION:waka-->
 ```text
-Other      18 hrs 29 mins  ██████████████████▓░░░░░░   75.06 % 
-Markdown   5 hrs 6 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.72 % 
-Docker     19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
-Python     19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
-Java       16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+Other      20 hrs 53 mins  ███████████████████▓░░░░░   78.44 % 
+Markdown   5 hrs 6 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.16 % 
+Python     20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+Java       16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 ```
 <!--END_SECTION:waka-->
