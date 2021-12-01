@@ -13,8 +13,7 @@ Ph.D. student in Security/CS.
 
 <!--START_SECTION:waka-->
 ```text
-Markdown   3 hrs 36 mins   ████████████████████▓░░░░   82.03 % 
-Python     42 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-Other      4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+Markdown   2 hrs 4 mins    ██████████████████████▒░░   89.66 % 
+Python     14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
 ```
 <!--END_SECTION:waka-->
