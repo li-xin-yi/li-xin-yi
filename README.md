@@ -7,6 +7,10 @@ Ph.D. student in Security/CS.
 - Reddit: [![](https://img.shields.io/reddit/user-karma/combined/xy-li?style=social)](https://www.reddit.com/user/xy-li/)
 - Douban(豆瓣）: https://www.douban.com/people/yangzhou301  (*Frozen now. Because the account is associated with a deprecated phone number which I cannot verify now. But I extremely recommend the books I marked on this website.*)
 
+### Seeking for Summer Internship
+
+Available for any research/develop summer intern in 2022. If you have interest in working with me, please contact me ([wolixinyi@gmail.com](mailto:wolixinyi@gmail.com)).
+
 ---
 
 ## 📊 Weekly development breakdown
