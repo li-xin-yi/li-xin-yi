@@ -1,4 +1,4 @@
-Ph.D. student in Security/CS.
+Ph.D. student in CyberSecurity/CS.
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=li-xin-yi&count_private=true&show_icons=true&hide_title=true&theme=tokyonight" />
 
@@ -7,7 +7,7 @@ Ph.D. student in Security/CS.
 - LeetCode: [xy-li](https://leetcode.com/xy-li/)
 - Reddit: [![](https://img.shields.io/reddit/user-karma/combined/xy-li?style=social)](https://www.reddit.com/user/xy-li/)
 - Paper reading notes: https://paper-weekly.readthedocs.io/en/latest/
-- Douban(豆瓣）: https://www.douban.com/people/yangzhou301  (*Frozen now. Because the account is associated with a deprecated phone number which I cannot verify now. But I extremely recommend the books I marked on this website.*)
+- Douban(豆瓣）: https://www.douban.com/people/yangzhou301  (*Frozen now. Because the account is associated with a deprecated phone number which I cannot verify now. But I extremely recommend the books I marked and the reading notes (in Chinese) I posted on this website.*)
 
 ### Seeking for Summer Internship
 
