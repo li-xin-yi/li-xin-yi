@@ -19,8 +19,6 @@ I'm available for any research or dev (particularly about ML/PL/Cybersecurity) s
 
 <!--START_SECTION:waka-->
 ```text
-Total: 4 hrs 30 mins
-
 Other      24 hrs 33 mins  █████████████████████░░░░   84.49 % 
 Java       2 hrs 53 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
 CMake      31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
