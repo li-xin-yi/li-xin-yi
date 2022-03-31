@@ -20,7 +20,7 @@ I'm available for any research or dev (particularly about ML/PL/Cybersecurity) s
 <!--START_SECTION:waka-->
 
 ```text
-Other         15 hrs 14 mins  ███████████████▓░░░░░░░░░   63.08 %
+Other         14 hrs 31 mins  ██████████████▒░░░░░░░░░░   57.94 %
 ```
 
 <!--END_SECTION:waka-->
