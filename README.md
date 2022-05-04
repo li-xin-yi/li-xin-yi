@@ -11,7 +11,7 @@ Ph.D. student in CyberSecurity/CS.
 
 ### Seeking for Summer Internship
 
-I'm available for any research or dev (particularly about ML/PL/Cybersecurity) summer intern in 2022 (in the US or remote). If you have interest in working with me, please contact me ([wolixinyi@gmail.com](mailto:wolixinyi@gmail.com)).
+I'm available for any research or dev (particularly about ML/PL/Cybersecurity) summer intern in 2022 (in the US or remote). If you have interest in working with me, please contact me (:email:[wolixinyi@gmail.com](mailto:wolixinyi@gmail.com)).
 
 ---
 
