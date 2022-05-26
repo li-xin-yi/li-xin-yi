@@ -7,7 +7,8 @@ Ph.D. student in CyberSecurity/CS.
 - LeetCode: [![LeetCode user xy-li](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fxy-li&logo=leetcode&logoColor=yellow)](https://leetcode.com/xy-li/)
 - Reddit: [![](https://img.shields.io/reddit/user-karma/combined/xy-li?style=social)](https://www.reddit.com/user/xy-li/)
 - Paper reading notes: https://paper-weekly.readthedocs.io/en/latest/
-- Douban(豆瓣）: https://www.douban.com/people/yangzhou301  (*Frozen now. Because the account is associated with a deprecated phone number which I cannot verify now. But I extremely recommend the books I marked and the reading notes (in Chinese) I posted on this website.*)
+- Douban(豆瓣）: [![](https://img.shields.io/badge/Douban%20Read-389EAC.svg?style=for-the-badge&logo=Douban-Read&logoColor=white)](https://www.douban.com/people/yangzhou301)  (*Frozen now. Because the account is associated with a deprecated phone number which I cannot verify now. But I extremely recommend the books I marked and the reading notes (in Chinese) I posted on this website.*)
+- Sponsor: [![](https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA.svg?style=for-the-badge&logo=GitHub-Sponsors&logoColor=white)](https://github.com/sponsors/li-xin-yi)
 
 ### Seeking for Summer Internship
 
