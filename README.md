@@ -5,9 +5,10 @@ Ph.D. student in CyberSecurity/CS.
 - StackOverflow: [![](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/4710264)](https://stackoverflow.com/users/4710264/xinyi-li/)
 - CodeWars: [![](https://www.codewars.com/users/xy-li/badges/micro)](https://www.codewars.com/users/xy-li/)
 - LeetCode: [![LeetCode user xy-li](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fxy-li&logo=leetcode&logoColor=yellow)](https://leetcode.com/xy-li/)
+  - Templates: [![](https://custom-icon-badges.herokuapp.com/readthedocs/lctemplates?label=lctemplates&style=flat-square&logo=paste&logoColor=white)](https://lctemplates.xyli.codes/en/latest/) 
 - Reddit: [![](https://img.shields.io/reddit/user-karma/combined/xy-li?style=social)](https://www.reddit.com/user/xy-li/)
-- Paper reading notes: [![](https://img.shields.io/readthedocs/paper-weekly?label=paper-weekly&style=flat-square)](https://paper-weekly.readthedocs.io/en/latest/)
-- Douban(豆瓣）: [![](https://img.shields.io/badge/Douban%20Read-389EAC.svg?style=for-the-badge&logo=Douban-Read&logoColor=white)](https://www.douban.com/people/yangzhou301)  (*Frozen now. Because the account is associated with a deprecated phone number which I cannot verify now. But I extremely recommend the books I marked and the reading notes (in Chinese) I posted on this website.*)
+- Paper reading notes: [![](https://custom-icon-badges.herokuapp.com/readthedocs/paper-weekly?label=paper-weekly&style=flat-square&logo=repo&logoColor=white)](https://paper-weekly.readthedocs.io/en/latest/)
+- Douban(豆瓣）: [![](https://custom-icon-badges.herokuapp.com/badge/Douban-yangzhou301-lightgrey?style=flat-square&logo=doubanread&logoColor=389EAC)](https://www.douban.com/people/yangzhou301)  (*Frozen now. Because the account is associated with a deprecated phone number which I cannot verify now. But I extremely recommend the books I marked and the reading notes (in Chinese) I posted on this website.*)
 
 ### Seeking for Summer Internship
 
