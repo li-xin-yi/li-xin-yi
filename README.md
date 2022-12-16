@@ -21,8 +21,8 @@ I'm available for any research or dev (particularly about ML/PL/Cybersecurity) s
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript                 17 hrs 35 mins  ███████████▓░░░░░░░░░░░░░   47.01 %
-Other                      17 hrs 19 mins  ███████████▓░░░░░░░░░░░░░   46.31 %
+TypeScript   20 hrs 53 mins  ████████████▓░░░░░░░░░░░░   50.79 %
+Other        17 hrs 45 mins  ██████████▓░░░░░░░░░░░░░░   43.17 %
 ```
 
 <!--END_SECTION:waka-->
