@@ -2,7 +2,7 @@ Ph.D. student in CyberSecurity/CS.
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=li-xin-yi&count_private=true&show_icons=true&hide_title=true&theme=tokyonight" />
 
-- StackOverflow: [![](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/4710264)](https://stackoverflow.com/users/4710264/xinyi-li/)
+- StackOverflow: [![](https://stackoverflow-badge.vercel.app/?userID=4710264)](https://stackoverflow.com/users/4710264/xinyi-li/)
 - CodeWars: [![](https://www.codewars.com/users/xy-li/badges/micro)](https://www.codewars.com/users/xy-li/)
 - LeetCode: [![LeetCode user xy-li](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fxy-li&logo=leetcode&logoColor=yellow)](https://leetcode.com/xy-li/)
   - Templates: [![](https://custom-icon-badges.herokuapp.com/readthedocs/lctemplates?label=lctemplates&style=flat-square&logo=paste&logoColor=white)](https://lctemplates.xyli.codes/en/latest/) 
