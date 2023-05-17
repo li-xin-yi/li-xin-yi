@@ -21,11 +21,11 @@ I'm available for any research or dev (particularly about ML/PL/Cybersecurity) s
 <!--START_SECTION:waka-->
 
 ```text
-Python        18 hrs 25 mins  ██████████████░░░░░░░░░░░   55.53 %
-Assembly      4 hrs 13 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.74 %
-Other         4 hrs 1 min     ███░░░░░░░░░░░░░░░░░░░░░░   12.15 %
-C             3 hrs 38 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.97 %
-RPMSpec       45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
+Python        16 hrs 52 mins  █████████████▓░░░░░░░░░░░   54.25 %
+Assembly      4 hrs 13 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.59 %
+C             3 hrs 38 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.69 %
+Other         3 hrs 30 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.29 %
+RPMSpec       45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
 ```
 
 <!--END_SECTION:waka-->
