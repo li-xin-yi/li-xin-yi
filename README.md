@@ -20,12 +20,12 @@ I'm available for any research or dev (particularly about ML/PL/Cybersecurity) s
 
 <!--START_SECTION:waka-->
 
-```text
-Other             4 hrs 36 mins   ███████████▓░░░░░░░░░░░░░   46.29 %
-Python            2 hrs 23 mins   ██████░░░░░░░░░░░░░░░░░░░   23.94 %
-TypeScript        1 hr 46 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.89 %
-SSH Config        55 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.31 %
-SSH Key           13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+```txt
+TypeScript        7 hrs 2 mins    ███████████▒░░░░░░░░░░░░░   45.09 %
+Other             6 hrs 50 mins   ███████████░░░░░░░░░░░░░░   43.78 %
+Python            1 hr 8 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 %
+SSH Key           13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+SSH Config        13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
 ```
 
 <!--END_SECTION:waka-->
