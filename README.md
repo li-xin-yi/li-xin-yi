@@ -21,11 +21,11 @@ I'm available for any research or dev (particularly about ML/PL/Cybersecurity) s
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript        7 hrs 15 mins   █████████▒░░░░░░░░░░░░░░░   37.07 %
-Python            5 hrs 13 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.70 %
-Other             4 hrs 51 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.80 %
-JSON              48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
-Protocol Buffer   22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+TypeScript        7 hrs 15 mins   █████████░░░░░░░░░░░░░░░░   36.38 %
+Python            6 hrs 11 mins   ███████▓░░░░░░░░░░░░░░░░░   30.99 %
+Other             4 hrs 40 mins   ██████░░░░░░░░░░░░░░░░░░░   23.42 %
+JSON              48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
+YAML              20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
 ```
 
 <!--END_SECTION:waka-->
