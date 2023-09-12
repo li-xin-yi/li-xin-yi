@@ -21,9 +21,9 @@ I'm available for any research or dev (particularly about ML/PL/Cybersecurity) s
 <!--START_SECTION:waka-->
 
 ```txt
-Other      6 hrs 16 mins   ███████████████░░░░░░░░░░   59.59 %
-Python     4 hrs 13 mins   ██████████░░░░░░░░░░░░░░░   40.02 %
-GDScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Other      5 hrs 52 mins   ██████████████▒░░░░░░░░░░   56.94 %
+Python     4 hrs 24 mins   ██████████▓░░░░░░░░░░░░░░   42.66 %
+GDScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
