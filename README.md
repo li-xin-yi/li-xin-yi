@@ -1,5 +1,3 @@
-Ph.D. student in CyberSecurity/CS.
-
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=li-xin-yi&count_private=true&show_icons=true&hide_title=true&theme=tokyonight" />
 
 - StackOverflow: [![](https://stackoverflow-badge.vercel.app/?userID=4710264)](https://stackoverflow.com/users/4710264/xinyi-li/)
@@ -8,11 +6,11 @@ Ph.D. student in CyberSecurity/CS.
   - Templates: [![](https://custom-icon-badges.herokuapp.com/readthedocs/lctemplates?label=lctemplates&style=flat-square&logo=paste&logoColor=white)](https://lctemplates.xyli.codes/en/latest/) 
 - Reddit: [![](https://img.shields.io/reddit/user-karma/combined/xy-li?style=social)](https://www.reddit.com/user/xy-li/)
 - Paper reading notes: [![](https://custom-icon-badges.herokuapp.com/readthedocs/paper-weekly?label=paper-weekly&style=flat-square&logo=repo&logoColor=white)](https://paper-weekly.readthedocs.io/en/latest/)
-- Douban(豆瓣）: [![](https://custom-icon-badges.herokuapp.com/badge/Douban-yangzhou301-lightgrey?style=flat-square&logo=doubanread&logoColor=389EAC)](https://www.douban.com/people/yangzhou301)  (*Frozen now. Because the account is associated with a deprecated phone number which I cannot verify now. But I extremely recommend the books I marked and the reading notes (in Chinese) I posted on this website.*)
+- Douban(豆瓣）: [![](https://custom-icon-badges.herokuapp.com/badge/Douban-yangzhou301-lightgrey?style=flat-square&logo=doubanread&logoColor=389EAC)](https://www.douban.com/people/yangzhou301)  (*Frozen now. Because the account is associated with a deprecated phone number, which I cannot verify now. But I extremely recommend the books I marked and the reading notes (in Chinese) I posted on this website.*)
 
 ### Seeking for Summer Internship
 
-I'm available for any research or dev (particularly about ML/PL/Cybersecurity) summer intern in 2022 (in the US or remote). If you have interest in working with me, please contact me (:email:[wolixinyi@gmail.com](mailto:wolixinyi@gmail.com)).
+I'm available for any research or dev (particularly about ML/PL/Cybersecurity) summer intern or full-time jobs in the 2023 Spring/Summer (in the US or remote). If you are interested in working with me, please get in touch with me (:email:[wolixinyi@gmail.com](mailto:wolixinyi@gmail.com)).
 
 ---
 
