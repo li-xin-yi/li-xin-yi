@@ -21,11 +21,11 @@ I'm available for any research or dev (particularly about ML/PL/Cybersecurity) s
 <!--START_SECTION:waka-->
 
 ```txt
-Other       8 hrs 28 mins   █████████▓░░░░░░░░░░░░░░░   39.26 %
-TeX         5 hrs 5 mins    ██████░░░░░░░░░░░░░░░░░░░   23.59 %
-Python      4 hrs 33 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.11 %
-Assembly    1 hr 21 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
-GDScript3   1 hr 7 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
+Other       10 hrs 32 mins  █████████████▒░░░░░░░░░░░   53.21 %
+Python      5 hrs 25 mins   ███████░░░░░░░░░░░░░░░░░░   27.37 %
+Assembly    1 hr 39 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
+GDScript3   1 hr 7 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
+Prolog      37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
 ```
 
 <!--END_SECTION:waka-->
