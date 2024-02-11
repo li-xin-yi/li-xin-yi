@@ -8,9 +8,9 @@
 - Paper reading notes: [![](https://custom-icon-badges.herokuapp.com/readthedocs/paper-weekly?label=paper-weekly&style=flat-square&logo=repo&logoColor=white)](https://paper-weekly.readthedocs.io/en/latest/)
 - Douban(豆瓣）: [![](https://custom-icon-badges.herokuapp.com/badge/Douban-yangzhou301-lightgrey?style=flat-square&logo=doubanread&logoColor=389EAC)](https://www.douban.com/people/yangzhou301)  (*Frozen now. Because the account is associated with a deprecated phone number, which I cannot verify now. But I extremely recommend the books I marked and the reading notes (in Chinese) I posted on this website.*)
 
-### Seeking for Summer Internship
+### Open to jobs!
 
-I'm available for any research or dev (particularly about ML/PL/Cybersecurity) summer intern or full-time jobs in the 2023 Spring/Summer (in the US or remote). If you are interested in working with me, please get in touch with me (:email:[wolixinyi@gmail.com](mailto:wolixinyi@gmail.com)).
+I'm available for any research or dev (particularly about ML/PL/Cybersecurity) summer intern or full-time jobs in the 2024 Spring/Summer (in the US or remote). If you are interested in working with me, please get in touch with me ( :email: wolixinyi@gmail.com)
 
 ---
 
