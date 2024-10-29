@@ -10,7 +10,9 @@
 
 ### Open to jobs!
 
-I'm available for any research or dev (particularly about ML/PL/Cybersecurity) summer intern or full-time jobs in the 2024 Spring/Summer (in the US or remote). If you are interested in working with me, please get in touch with me ( :email: wolixinyi@gmail.com)
+Ex- :banana::cloud:intern & Ex- :snowflake:intern
+
+I'm available for any research or dev (particularly about ML/PL/Cybersecurity) full-time jobs in 2025 (in the US or remote). If you are interested in working with me, please get in touch with me ( :email: wolixinyi@gmail.com)
 
 ---
 
