@@ -21,7 +21,11 @@ I'm available for any research or dev (particularly about ML/PL/Cybersecurity) f
 <!--START_SECTION:waka-->
 
 ```txt
-Other   2 hrs 44 mins   █████████████████████████   100.00 %
+Other              2 hrs 45 mins   ████████████████████▓░░░░   82.95 %
+reStructuredText   13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
+Markdown           11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
+Python             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+HTML               1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
 ```
 
 <!--END_SECTION:waka-->
