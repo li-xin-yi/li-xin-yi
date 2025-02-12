@@ -21,11 +21,11 @@ I'm available for any research or dev (particularly about ML/PL/Cybersecurity) f
 <!--START_SECTION:waka-->
 
 ```txt
-TeX          5 hrs 53 mins   █████████▓░░░░░░░░░░░░░░░   38.45 %
-Other        5 hrs 29 mins   █████████░░░░░░░░░░░░░░░░   35.84 %
-Markdown     3 hrs 43 mins   ██████░░░░░░░░░░░░░░░░░░░   24.34 %
-CSS          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
-Text         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+TeX          5 hrs 53 mins   ███████████▓░░░░░░░░░░░░░   46.65 %
+Other        4 hrs 20 mins   ████████▓░░░░░░░░░░░░░░░░   34.36 %
+Markdown     2 hrs 12 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.49 %
+CSS          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+Text         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
