@@ -8,11 +8,12 @@
 - Paper reading notes: [![](https://custom-icon-badges.herokuapp.com/readthedocs/paper-weekly?label=paper-weekly&style=flat-square&logo=repo&logoColor=white)](https://paper-weekly.readthedocs.io/en/latest/)
 - Douban(豆瓣）: [![](https://custom-icon-badges.herokuapp.com/badge/Douban-yangzhou301-lightgrey?style=flat-square&logo=doubanread&logoColor=389EAC)](https://www.douban.com/people/yangzhou301)  (*Frozen now. Because the account is associated with a deprecated phone number, which I cannot verify now. But I extremely recommend the books I marked and the reading notes (in Chinese) I posted on this website.*)
 
-### Open to jobs!
+If you're interested in working/discussing any tech questions with me, email me:
 
-Ex- :banana::cloud:intern & Ex- :snowflake:intern
-
-I'm available for any research or dev (particularly about ML/PL/Cybersecurity) full-time jobs in 2025 (in the US or remote). If you are interested in working with me, please get in touch with me ( :email: wolixinyi@gmail.com)
+```hs
+main :: IO ()
+main = putStrLn $ (\y -> (\x -> x ++ "@" ++ y ++ ".com")) "wolixinyi" "gmail"
+```
 
 ---
 
