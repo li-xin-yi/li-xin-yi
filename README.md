@@ -22,8 +22,8 @@ main = putStrLn $ (\y -> (\x -> x ++ "@" ++ y ++ ".com")) "wolixinyi" "gmail"
 <!--START_SECTION:waka-->
 
 ```txt
-JSON    27 mins         ███████████████▒░░░░░░░░░   61.75 %
-Other   16 mins         █████████▓░░░░░░░░░░░░░░░   38.25 %
+JSON    27 mins         ████████████████▒░░░░░░░░   64.70 %
+Other   14 mins         ████████▓░░░░░░░░░░░░░░░░   35.30 %
 ```
 
 <!--END_SECTION:waka-->
