@@ -22,11 +22,11 @@ main = putStrLn $ (\y -> (\x -> x ++ "@" ++ y ++ ".com")) "wolixinyi" "gmail"
 <!--START_SECTION:waka-->
 
 ```txt
-Other        5 hrs 47 mins   ███████████████████░░░░░░   75.51 %
-JavaScript   1 hr 18 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.08 %
-JSON         21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
-Python       10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
-Markdown     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+Other        6 hrs 17 mins   █████████████████████░░░░   84.12 %
+JavaScript   48 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.82 %
+JSON         20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
+Markdown     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
